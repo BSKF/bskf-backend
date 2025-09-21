@@ -1,0 +1,28 @@
+{
+    "userData":{
+        "email": "email",
+        "username": "username",
+        "password": "password",
+        "expired": "expired",
+        "role": "role",
+        "user_id": "user_id",
+        "firstname": "firstname",
+        "lastname": "lastname",
+        "middlename": "middlename",
+        "address": "address",
+        "created_at": "created_at",
+        "updated_at": "updated_at",
+        "phone_number": "phone_number"
+    },
+    "task": {
+        "task_id": "task_id",
+        "created_at": "created_at",
+        "updated_at": "updated_at",
+        "title": "title",
+        "content": "content",
+        "is_complete": "is_complete",
+        "deadline": "deadline",
+        "assigned_to": "assigned_to",
+        "assigned_by": "assigned_by"
+    }
+}
